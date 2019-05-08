@@ -1,0 +1,11 @@
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\bin\Debug\CurrencyCalculatorV2.exe.config
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\bin\Debug\CurrencyCalculatorV2.exe
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\bin\Debug\CurrencyCalculatorV2.pdb
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.csprojAssemblyReference.cache
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.Properties.Resources.resources
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.csproj.GenerateResource.cache
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.csproj.CoreCompileInputs.cache
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.exe
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.pdb
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.Exception.resources
+C:\Users\KeyLook\source\repos\CurrencyCalculatorV2\CurrencyCalculatorV2\obj\Debug\CurrencyCalculatorV2.Application.resources

@@ -1,0 +1,8 @@
+﻿<tabela_kursow>
+  <pozycja>
+  <nazwa_waluty>złoty polski</nazwa_waluty>
+  <przelicznik>1</przelicznik>
+  <kod_waluty>PLN</kod_waluty>
+  <kurs_sredni>1</kurs_sredni>
+  </pozycja>
+</tabela_kursow>
